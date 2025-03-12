@@ -1,11 +1,11 @@
 {
-  "name": "Your Name",
+  "name": "Jonathan Sher",
   "label": "Optional Label",
   "image_path": "img/default-image.png",
   "contact": {
-    "email": "FirstLast@Sample.com",
-    "phone": "123-456-7890",
-    "location": "City, State, Country"
+    "email": "jsher100@gmail.com",
+    "phone": "818-826-9073",
+    "location": "Los Angeles, California"
   },
   "summary": "A short summary of who you are, your background, experience, and interests to give visitors a quick introduction to you.",
   "base_url": "127.0.0.1:5500",
@@ -16,8 +16,8 @@
       "svg_path": "img/globe.svg"
     },
     {
-      "label": "First Social",
-      "url": "https://sample.com",
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jonathan-sher/",
       "svg_path": "img/linkedin.svg"
     },
     {
