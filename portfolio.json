@@ -1,6 +1,6 @@
 {
   "name": "Jonathan Sher",
-  "label": "Optional Label",
+  "label": "Computer Science Student",
   "image_path": "img/default-image.png",
   "contact": {
     "email": "jsher100@gmail.com",
@@ -21,15 +21,15 @@
       "svg_path": "img/linkedin.svg"
     },
     {
-      "label": "Second Social",
-      "url": "https://sample.com",
+      "label": "Github",
+      "url": "https://github.com/itsJonnie/Users/shersher/Coding/Portfolio/portfolio/index.html",
       "svg_path": "img/github.svg"
     }
   ],
   "work_experience": [
     {
-      "company": "Latest Job",
-      "position": "Position One",
+      "company": "CSUN Associated Students",
+      "position": "CSUN Senator College of Engineering & Computer Science",
       "url": "https://sample.com",
       "start_date": "01/01/2020",
       "end_date": "Present",
@@ -41,8 +41,8 @@
       ]
     },
     {
-      "company": "Previous Job",
-      "position": "Position Two",
+      "company": "CSUN Associated Students",
+      "position": "CSUN Lower Division Senator",
       "url": "https://sample.com",
       "start_date": "01/01/2010",
       "end_date": "01/01/2020",
@@ -56,9 +56,9 @@
   ],
   "projects": [
     {
-      "title": "My First Project",
-      "summary": "Short summary about my first project",
-      "url": "https://sample.com",
+      "title": "Emoji Maker– Web-Based & AI-Integrated Emoji Customization Tool",
+      "summary": "Integrated the Stable Diffusion XL (SDXL) Emoji Generator API, allowing AI-powered emoji creation for enhanced customization using a web-based interface combined with a text-to-emoji model.",
+      "url": "https://github.com/itsJonnie/emoji-maker",
       "highlights": [
         "First Highlight of Project One",
         "Second Highlight of Project One",
@@ -80,9 +80,9 @@
       ]
     },
     {
-      "title": "My Second Project",
-      "summary": "Short summary about my second project",
-      "url": "https://sample.com",
+      "title": "Movie Recommendation System – Collaborative Filtering",
+      "summary": "A movie recommendation system built with Python that leverages collaborative filtering techniques. This project uses the MovieLens 100k dataset to suggest movies to users based on their historical ratings. The system implements multiple recommendation models including a simple k‑Nearest Neighbors (k‑NN) model, an SVD-based model, and a hybrid approach. The application is deployed as a Streamlit web app via GitHub and Streamlit Community Cloud.",
+      "url": "https://app-movie-recommendation-system-jsher.streamlit.app/",
       "highlights": [
         "First Highlight of Project Two",
         "Second Highlight of Project Two",
@@ -134,7 +134,7 @@
   ],
   "education": [
     {
-      "institution": "Institution One",
+      "institution": "California State University, Northridge",
       "location": "Institution One Location",
       "url": "https://sample.com",
       "degrees": [
@@ -147,7 +147,7 @@
       "graduation_date": "01/01/2005"
     },
     {
-      "institution": "Institution Two",
+      "institution": "The University of Sydney, Australia",
       "location": "Institution Two Location",
       "url": "https://sample.com",
       "degrees": ["Bachelor of Science in Physics"],
@@ -159,19 +159,19 @@
   ],
   "skills": [
     {
-      "name": "My First Skill",
+      "name": "Python",
       "proficiency": 100,
       "proficiency_label": "Proficiency Level"
     },
     {
-      "name": "My Second Skill",
+      "name": "SQL",
       "proficiency": 80,
       "proficiency_label": "Proficiency Level"
     }
   ],
   "interests": [
     {
-      "name": "My First Hobby",
+      "name": "Travel",
       "summary": "Short summary about my first Hobby",
       "images": [
         {
@@ -185,7 +185,7 @@
       ]
     },
     {
-      "name": "My Second Hobby",
+      "name": "Snowboarding",
       "summary": "Short summary about my second hobby",
       "images": [
         {
