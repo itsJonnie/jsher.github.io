@@ -1,7 +1,7 @@
 {
   "name": "Jonathan Sher",
   "label": "Computer Science Student",
-  "image_path": "img/ai-pfp.jpg",
+  "image_path": "img/jsher.png",
   "contact": {
     "email": "jsher100@gmail.com",
     "phone": "818-826-9073",
@@ -30,9 +30,9 @@
       "end_date": "December 2024",
       "summary": "I advocated for 1,000+ students in the College of Engineering & Computer Science, voicing their concerns to university administration, faculty, and staff to drive policy changes.",
       "highlights": [
-        "First Duty of Current Job",
-        "Second Duty of Current Job",
-        "Third Duty of Current Job"
+        "Served on the Academic Affairs Committee, working on academic policy changes and student success initiatives",
+        "Collaborated with the College of Engineering & Computer Science Dean to address student concerns and improve the student experience",
+        "Organized and hosted events to promote student engagement and foster a sense of community within the college"
       ]
     },
     {
@@ -43,9 +43,8 @@
       "end_date": "May 2024",
       "summary": "I lead as a Lower Division Senator on the Associated Student Leadership, representing all lower division students, an estimated 17,000 students, by advocating for their needs and concerns to the administration, faculty, and staff.",
       "highlights": [
-        "First Duty of Previous Job",
-        "Second Duty of Previous Job",
-        "Third Duty of Previous Job"
+        "Served on the Internal Affairs Committee and was Vice Chair of this committee for a semester, working on making revisions to the AS codes",
+        "Managed CSUN Associated Students' social media presence, creating and sharing engaging content to promote events, highlight student achievements, and strengthen campus community engagement."  
       ]
     }
   ],
@@ -55,9 +54,9 @@
       "summary": "Integrated the Stable Diffusion XL (SDXL) Emoji Generator API, allowing AI-powered emoji creation for enhanced customization using a web-based interface combined with a text-to-emoji model.",
       "url": "https://github.com/itsJonnie/emoji-maker",
       "highlights": [
-        "First Highlight of Project One",
-        "Second Highlight of Project One",
-        "Third Highlight of Project One"
+        "Developed a web-based emoji customization tool using JavaScript, HTML, and CSS, enabling users to design and export personalized emojis.",
+        "Integrated the Stable Diffusion XL (SDXL) Emoji Generator API, allowing AI-powered emoji creation for enhanced customization.",
+        "Optimized SVG rendering and export functionality, ensuring high-quality downloads for user-generated emojis"
       ],
       "images": [
         {
@@ -79,34 +78,19 @@
       "summary": "A movie recommendation system built with Python that leverages collaborative filtering techniques. This project uses the MovieLens 100k dataset to suggest movies to users based on their historical ratings. The system implements multiple recommendation models including a simple k‑Nearest Neighbors (k‑NN) model, an SVD-based model, and a hybrid approach. The application is deployed as a Streamlit web app via GitHub and Streamlit Community Cloud.",
       "url": "https://app-movie-recommendation-system-jsher.streamlit.app/",
       "highlights": [
-        "First Highlight of Project Two",
-        "Second Highlight of Project Two",
-        "Third Highlight of Project Two"
-      ],
-      "images": [
-        {
-          "img_path": "https://picsum.photos/600/338?random=4",
-          "caption": "Image Caption 4"
-        },
-        {
-          "img_path": "https://picsum.photos/600/338?random=5",
-          "caption": "Image Caption 5"
-        },
-        {
-          "img_path": "https://picsum.photos/600/338?random=6",
-          "caption": "Image Caption 6"
-        }
-      ]
+        "Implemented a collaborative filtering movie recommendation system using Python and the MovieLens 100k dataset.",
+        "Developed a k-Nearest Neighbors (k-NN) model, Singular Value Decomposition (SVD) model, and hybrid model for movie recommendations.",
+        "Deployed the application as a Streamlit web app via GitHub and Streamlit Community Cloud, allowing users to receive movie recommendations based on their historical ratings."
+      ] 
     }
   ],
   "education": [
     {
       "institution": "California State University, Northridge",
       "location": "Los Angeles, California, USA",
-      "url": "https://sample.com",
+      "url": "https://w2.csun.edu/",
       "degrees": [
-        "Master of Science in Computer Science",
-        "Minor in Mathematics"
+        "Bachelor of Science in Computer Science - Computer Information Technoloy"
       ],
       "honors": ["Alpha Epsilon Pi", "Dean's List", "Alpha Lambda Delta Honor Society", "Association for Computing Machinery", "Software Developer Club"],
       "gpa_cumulative": "3.82", 
@@ -128,36 +112,38 @@
     },
     {
       "name": "SQL",
-      "proficiency": 80,
+      "proficiency": 100,
+      "proficiency_label": "Proficiency Level"
+
+    },
+    {"name": "R",
+      "proficiency": 100,
       "proficiency_label": "Proficiency Level"
     }
+
   ],
   "interests": [
     {
       "name": "Travel",
-      "summary": "Short summary about my first Hobby",
+      "summary": "I love to travel and experience different cultures.",
       "images": [
         {
-          "img_path": "https://picsum.photos/600/338?random=7",
-          "caption": "Image Caption 7"
+          "img_path": "img/travel1.png",
+          "caption": "Off-roading in Israel"
         },
         {
-          "img_path": "https://picsum.photos/600/338?random=8",
-          "caption": "Image Caption 8"
+          "img_path": "img/travel2.png",
+          "caption": "Bondi Icebergs, Sydney"
         }
       ]
     },
     {
       "name": "Snowboarding",
-      "summary": "Short summary about my second hobby",
+      "summary": "Snowboarding is another sport I enjoy. The thrill of the mountain is exhilarating.",
       "images": [
         {
-          "img_path": "https://picsum.photos/600/338?random=9",
-          "caption": "Image Caption 9"
-        },
-        {
-          "img_path": "https://picsum.photos/600/338?random=10",
-          "caption": "Image Caption 10"
+          "img_path": "img/snowboard.jpg",
+          "caption": "Snowboarding in Mammoth"
         }
       ]
     }
