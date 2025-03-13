@@ -1,20 +1,15 @@
 {
   "name": "Jonathan Sher",
   "label": "Computer Science Student",
-  "image_path": "img/default-image.png",
+  "image_path": "img/ai-pfp.jpg",
   "contact": {
     "email": "jsher100@gmail.com",
     "phone": "818-826-9073",
     "location": "Los Angeles, California"
   },
-  "summary": "A short summary of who you are, your background, experience, and interests to give visitors a quick introduction to you.",
+  "summary": "I'm a Computer Information Technology student at CSUN, passionate about data science, AI/ML, and networking. Formerly a Data Science student at the University of Sydney, I’m skilled in Python, Java, R, and SQL. I’m driven to pursue a master’s in machine learning, focusing on computer vision and eager to apply my skills in a professional setting and solve problems.",
   "base_url": "127.0.0.1:5500",
   "social_links": [
-    {
-      "label": "Personal Website",
-      "url": "https://sample.com",
-      "svg_path": "img/globe.svg"
-    },
     {
       "label": "LinkedIn",
       "url": "https://www.linkedin.com/in/jonathan-sher/",
@@ -30,10 +25,10 @@
     {
       "company": "CSUN Associated Students",
       "position": "CSUN Senator College of Engineering & Computer Science",
-      "url": "https://sample.com",
-      "start_date": "01/01/2020",
-      "end_date": "Present",
-      "summary": "Short summary about present job and what the position entails",
+      "url": "https://w2.csun.edu/as/departments/student-leadership",
+      "start_date": "July 2024",
+      "end_date": "December 2024",
+      "summary": "I advocated for 1,000+ students in the College of Engineering & Computer Science, voicing their concerns to university administration, faculty, and staff to drive policy changes.",
       "highlights": [
         "First Duty of Current Job",
         "Second Duty of Current Job",
@@ -43,10 +38,10 @@
     {
       "company": "CSUN Associated Students",
       "position": "CSUN Lower Division Senator",
-      "url": "https://sample.com",
-      "start_date": "01/01/2010",
-      "end_date": "01/01/2020",
-      "summary": "Short summary about previous job and what that position entailed",
+      "url": "https://w2.csun.edu/as/departments/student-leadership",
+      "start_date": "August 2023",
+      "end_date": "May 2024",
+      "summary": "I lead as a Lower Division Senator on the Associated Student Leadership, representing all lower division students, an estimated 17,000 students, by advocating for their needs and concerns to the administration, faculty, and staff.",
       "highlights": [
         "First Duty of Previous Job",
         "Second Duty of Previous Job",
@@ -66,16 +61,16 @@
       ],
       "images": [
         {
-          "img_path": "https://picsum.photos/600/338?random=1",
-          "caption": "Image Caption 1"
+          "img_path": "img/emoji1.png",
+          "caption": "Demo of the Emoji Maker User Interface"
         },
         {
-          "img_path": "https://picsum.photos/600/338?random=2",
-          "caption": "Image Caption 2"
+          "img_path": "img/emoji2.png",
+          "caption": "Example of AI-Generated Boston Terrier Emoji"
         },
         {
-          "img_path": "https://picsum.photos/600/338?random=3",
-          "caption": "Image Caption 3"
+          "img_path": "/Users/shersher/Coding/Portfolio/portfolio/img/emoij3.png",
+          "caption": "Example of AI-Generated Boston Terrier Emoji"
         }
       ]
     },
@@ -104,57 +99,25 @@
       ]
     }
   ],
-  "volunteer_experience": [
-    {
-      "organization": "Latest Organization",
-      "position": "Position One",
-      "url": "https://sample.com",
-      "start_date": "01/01/2020",
-      "end_date": "Present",
-      "summary": "Short summary about present volunteer work",
-      "highlights": [
-        "First Duty of Current Organization",
-        "Second Duty of Current Organization",
-        "Third Duty of Current Organization"
-      ]
-    },
-    {
-      "organization": "Previous Organization",
-      "position": "Position Two",
-      "url": "https://sample.com",
-      "start_date": "01/01/2010",
-      "end_date": "01/01/2020",
-      "summary": "Short summary about previous volunteer work",
-      "highlights": [
-        "First Duty of Previous Organization",
-        "Second Duty of Previous Organization",
-        "Third Duty of Previous Organization"
-      ]
-    }
-  ],
   "education": [
     {
       "institution": "California State University, Northridge",
-      "location": "Institution One Location",
+      "location": "Los Angeles, California, USA",
       "url": "https://sample.com",
       "degrees": [
         "Master of Science in Computer Science",
         "Minor in Mathematics"
       ],
-      "honors": ["Outstanding Student Award", "Dean's List"],
-      "gpa_cumulative": "3.5",
-      "gpa_major": "4.0",
-      "graduation_date": "01/01/2005"
-    },
+      "honors": ["Alpha Epsilon Pi", "Dean's List", "Alpha Lambda Delta Honor Society", "Association for Computing Machinery", "Software Developer Club"],
+      "gpa_cumulative": "3.82", 
+      "graduation_date": "May '26"
+      },
     {
       "institution": "The University of Sydney, Australia",
-      "location": "Institution Two Location",
-      "url": "https://sample.com",
-      "degrees": ["Bachelor of Science in Physics"],
-      "honors": ["Scholarship Recipient"],
-      "gpa_cumulative": "3.2",
-      "gpa_major": "3.9",
-      "graduation_date": "01/01/2000"
+      "location": "Sydney, Australia",
+      "url": "https://www.sydney.edu.au/",
+      "degrees": ["Bachelor of Science in Data Science"],
+      "honors": ["Wesley College", "Dean's List"]
     }
   ],
   "skills": [
@@ -198,27 +161,11 @@
         }
       ]
     }
-  ],
-  "languages": [
-    {
-      "language": "English",
-      "fluency": "Native speaker"
-    },
-    {
-      "language": "American Sign Language",
-      "fluency": "Professional Working Proficiency"
-    }
-  ],
-  "references": [
-    {
-      "name": "Person One",
-      "relation": "Previous Boss",
-      "reference": "Some nice things that Person One said about you, your work ethic, and how you provided value to their team."
-    },
-    {
-      "name": "Person Two",
-      "relation": "Previous Coworker",
-      "reference": "More kind things that Person Two said about you, what it was like working with you, and things you've accomplished."
-    }
   ]
 }
+
+
+
+
+
+
